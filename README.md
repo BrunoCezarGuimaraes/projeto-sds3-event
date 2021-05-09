@@ -15,4 +15,4 @@ Postgresql,
 Heroku,
 Netlify.
 
-Link pro projeto rodando: https://brunocezar-sds3.netlify.app/
+Link pro projeto rodando: https://brunocezar-sds3.netlify.app
